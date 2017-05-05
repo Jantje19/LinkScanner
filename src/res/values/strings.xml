@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LinkScanner</string>
+
+    <string name="WIP">Not available yet, W.I.P</string>
+
+    <string name="found">Found</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="ok">Oke</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="option">Options</string>
+
+    <string name="history">History</string>
+
+    <string name="tinyDB_cache_name">history</string>
+    <string name="intent_tinyDB">intentDB</string>
+    <string name="arrayListToStringSplitChar">,</string>
+
+    <string name="noHist">No history found (yet)</string>
+
+    <string name="nai">No image found</string>
+    <string name="noText">No text found</string>
+    <string name="TRNA">Text Recogniser not available</string>
+    <string name="error">Something went wrong</string>
+
+    <string name="oib">Open in browser</string>
+
+    <string name="default_browser">Use the built in browser</string>
+    <string name="default_browser_desc">If turned on the scanned links will open within this application</string>
+
+</resources>
